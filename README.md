@@ -60,6 +60,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,4 +82,16 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
