@@ -51,6 +51,7 @@
 | [0739-daily-temperatures](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 ## Queue
