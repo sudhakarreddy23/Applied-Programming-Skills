@@ -14,6 +14,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [2418-sort-the-people](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0344-reverse-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2418-sort-the-people](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
