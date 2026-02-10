@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
@@ -134,5 +136,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/sudhakarreddy23/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
